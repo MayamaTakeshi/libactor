@@ -50,3 +50,14 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+
+Makefile
+config.log
+config.status
+doc/Makefile
+examples/Makefile
+libtool
+src/.deps/
+src/Makefile
+
